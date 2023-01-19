@@ -1,0 +1,15 @@
+.done #check {
+  opacity: 1;
+}
+
+.done .group-done\:line-through {
+  text-decoration-line: line-through;
+}
+
+.done .checkBtn {
+  background-color: #22C55E;
+}
+
+.done span:after {
+  width: 100%;
+}
